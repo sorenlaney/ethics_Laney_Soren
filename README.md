@@ -35,9 +35,21 @@ Trust is one of the most important things that a person or a company can have. I
 
 ## Reading Discussion
 
-_Provide a short summary of the primary principle of some readings we completed in class. This summary should be in your style and what you gleaned._
+### The Car Insurance Industry Attacks Our Story. Here’s Our Response.
 
-## References
+I found this article to be particluarly interesting because it is disputing a the claim that a previous article of theirs was false about car insurnce claims and rates being disportionate in minority neighborhoods. This is important for a couple if reasons, the first. being how they approached and presented the first aritcle. The company was attacking what they believe to be their method in arriving at their results, however this was false. They had used a different method/model to arrive at those results. This shows how important it is to clearly comunicate how one arives at results and speak to the validity of a model or statistical analysis. 
+
+### Physiognomy’s New Clothes
+
+I really liked this article because it brought past assumptions of humans into the present, and applying them to new technologies such as Machaine LEarning and AI. It just goes to show how the auumptions of one person can go on to affect so many dependent on whether or not they are correct. It also shows just how important it is to throughly think through the affects of a model before implementing it. 
+
+### The Friendship That Made Google Huge
+
+This story resonates with becuase of the effort that they put in to master their craft and build something truly great. They were only able to fix the problem at. google because they spent hunderds, if not thousands, of hours working towards a solution. It was thorugh this hard wrok that they were bale to build a solution that lead to changing the internet through their pwerful search engine and reslient method to contructing serves. 
+
+
+
+## References 
 
 #### Ethics Manifesto Notes 
 [Key Points in Writing a Manifesto](https://www.masterclass.com/articles/what-is-a-manifesto)
