@@ -1,7 +1,7 @@
 # Ethics manifesto 
 ***
 
-## My Ethical Principles
+#### My Ethical Principles
 
 *"Ethics is knowing the difference between what you have a right to do and what is right to do"* -Potter Stewart
 
